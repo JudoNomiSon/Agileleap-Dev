@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AgileLeapHomepage from './pages/AgileLeapHomepage';
+import Home from './pages/Home';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <AgileLeapHomepage />
+    <Home />
   </React.StrictMode>
 );
